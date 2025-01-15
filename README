@@ -1,0 +1,18 @@
+# Python Insights: Analyzing Data with Python
+
+## Case - Customer Cancellations
+
+You have been hired by a company with over **800,000 customers** for a **Data Analysis project**. Recently, the company identified a critical issue:  
+**The majority of its customer base consists of inactive clients**, meaning they have already canceled the service.
+
+### Objective
+To improve its results, the company aims to:
+1. Understand the main reasons behind these cancellations.
+2. Identify the most effective actions to reduce the number of cancellations.
+
+### Approach
+1. Analyze customer data to detect patterns and trends related to cancellations.
+2. Implement solutions to address key factors contributing to client churn.
+3. Develop strategies to enhance customer retention based on actionable insights.
+
+
